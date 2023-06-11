@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 manuel
 
 jogar bola
 estudar
 correr
+=======
+>>>>>>> Stashed changes

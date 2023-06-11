@@ -1,7 +1,3 @@
 # Login em python
 
 # Finalizado!
-
-
-
-
