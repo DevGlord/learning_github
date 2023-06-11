@@ -6,12 +6,11 @@ class Pessoa:
     def __init__(self,nome,idade):
         self.nome = nome
         self.idade = idade
-<<<<<<< HEAD
 
 person = Pessoa('Max',19)
-=======
+
 person = Pessoa('Mateus',19)
->>>>>>> page_contato
+
 people = Pessoa('Mario',21)
 
 conjunto = (vars(person),vars(people))
