@@ -16,3 +16,5 @@ with open(LOCAL_ARQUIVO,'w',encoding='utf8') as arquivo:
 
 with open(LOCAL_ARQUIVO,'r') as arquivo:
     print(json.load(arquivo))
+    
+print('hellow world')
