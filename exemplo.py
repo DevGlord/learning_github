@@ -7,7 +7,7 @@ class Pessoa:
         self.nome = nome
         self.idade = idade
 
-person = Pessoa('Mateus',19)
+person = Pessoa('Max',19)
 people = Pessoa('Mario',21)
 
 conjunto = (vars(person),vars(people))
