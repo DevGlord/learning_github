@@ -1,0 +1,3 @@
+Estudar Python
+Estudar SQL
+Estudar Git e Github
