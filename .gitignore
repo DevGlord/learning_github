@@ -1,7 +1,9 @@
 
+
 /node_modules
 .env.local
 /mania
-hello_world.py
+hello_world**/*.py
 login.py
-/exemplo_python3
+
+/exemplo_python3/
