@@ -3,5 +3,5 @@
 /node_modules
 .env.local
 /mania
-/exemplo_python2
-/arquivos
+hello_world.py
+/exemplo_python3
