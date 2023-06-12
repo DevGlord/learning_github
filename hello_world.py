@@ -1,1 +1,0 @@
-n1 = ('Hello World')
