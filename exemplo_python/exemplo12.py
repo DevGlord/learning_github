@@ -12,6 +12,11 @@ p2 = Paises('Afríca do Sul',2020)
 
 conjuntos = (vars(p1),vars(p2))
 
-with open(LOCAL_ARQUIVO,'w',encoding='utf8') as arquivo:
-    json.dump(conjuntos,arquivo,ensure_ascii=False,indent=2)
+def fazendo_dump():
+    print('Fazendo DUMP')
+    with open(LOCAL_ARQUIVO,'w',encoding='utf8') as arquivo:
+        json.dump(conjuntos,arquivo,ensure_ascii=False,indent=2)
 
+if __name__ == '__main__':
+    print('Ele é o __main__')
+    fazendo_dump()
