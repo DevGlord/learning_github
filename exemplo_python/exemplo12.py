@@ -13,8 +13,8 @@ n2 = int(input('Ano de Nascimento:'))
 n3 = input('País:')
 n4 = int(input('Ano de Nascimento:'))
 
-p1 = Paises(n1,n2) 
-p2 = Paises(n3,n4)
+p1 = Paises((n1),(n2)) 
+p2 = Paises((n3),(n4))
 
 conjuntos = (vars(p1),vars(p2))
 
