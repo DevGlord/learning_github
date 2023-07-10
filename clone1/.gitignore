@@ -1,0 +1,7 @@
+/venv
+/node_modules
+.env.local
+/mania
+/exemplopython1
+/arquivos
+hello_world.py
